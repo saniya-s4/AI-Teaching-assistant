@@ -36,6 +36,6 @@ GROQ_API_KEY=your_api_key_here
 ```bash
 streamlit run main.py
 ```
-
+5. Demo https://ai-teaching-assistant-6enjxxtsuo9pbgwwfapc2w.streamlit.app/
 ## Author
 Made by [Saniya](https://github.com/saniya-s4)
